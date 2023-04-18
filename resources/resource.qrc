@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>download.png</file>
+        <file>delete.png</file>
+        <file>nullDown.png</file>
+        <file>nullHost.png</file>
+        <file>addFile.png</file>
+        <file>host.png</file>
+        <file>file.png</file>
+        <file>back.png</file>
+        <file>sending.png</file>
+        <file>addFile2.png</file>
+        <file>setting.png</file>
+        <file>upload.png</file>
+        <file>error.png</file>
+        <file>ok.png</file>
+        <file>scan.png</file>
+        <file>dir.png</file>
+        <file>logo.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>DownloadPage.qml</file>
+        <file>main.qml</file>
+        <file>UploadPage.qml</file>
+        <file>HeadComponent.qml</file>
+        <file>CheckFileItem.qml</file>
+        <file>FileListComponent.qml</file>
+        <file>BottomComponent.qml</file>
+        <file>ScanHostComponent.qml</file>
+        <file>CheckHostItem.qml</file>
+        <file>ListComponent.qml</file>
+        <file>TransferItem.qml</file>
+        <file>SettingPage.qml</file>
+        <file>MFileDialog.qml</file>
+        <file>FileItem.qml</file>
+    </qresource>
+</RCC>
